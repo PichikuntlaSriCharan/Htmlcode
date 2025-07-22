@@ -1,0 +1,39 @@
+==> Basic syntax:
+    h1{
+        color: red;
+    }
+==> 2 methods for css
+        1). inline:-
+            <h1 style = "color : red">hello<h1>
+        2). style tag :-
+        <style>
+            h1{
+                color: red;
+            }
+        </style>
+==> external style sheet.
+        linking in head:- <link rel="style.css" href="style.css">
+
+-------------------------------------------------------------------------
+Properties:-
+1). Color Property:- -->rgb
+
+    ==> Selectors:- 
+        1). universal Selector.
+           *{}
+        2).Eelment Selector.
+           h1{}
+        3).Id selector.
+           #myid{}
+        4).Class selecor.
+           .myclass{}
+
+2).Text property:
+3).Box model
+4).Padding
+5).Margin
+6)Display property
+7).Visibility property
+8).Alpha Channel(opacity)
+9).unita in css
+10).relative and absolute(rem,vh,vw,em,) and z-factor
